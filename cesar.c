@@ -2,7 +2,7 @@
 // Purpose: to use as a cesar cipher; string-> string
 //int main(int ..., string argv) for design purposes is the template I created
 //Important functions: GetString, atoi, strlen
-//GetString gets a string, str len deals with the string length(how cleverly named!)
+//GetString gets a string, str len deals with the string length
 //author: steierjo(Joshua Steier)
 //5/13/2016
 
