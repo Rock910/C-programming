@@ -1,8 +1,11 @@
+//author: Joshua Steier
+//purpose: to convert the length of the shower to number of water bottles consumed
+//num->num
 #include<cs50.h>
 #include<stdio.h>
 int main(void)
 {
-     printf("Enter in the legnth of your shower in minutes");
+     printf("Enter in the length of your shower in minutes");
     int showerlen = GetInt();
     
     
