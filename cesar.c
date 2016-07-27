@@ -10,11 +10,13 @@
 #include <cs50.h>
 #include <string.h>
 #include <ctype.h>
-                 // declare the main with argv, array for strings       
+                 // declare the main with argv, array for strings  
+                 //need to read in string from the command line, so use int argc, string argv[]
 int main(int argc, string argv[])
 {
    
     bool KeySuccessful = false;
+    //key is 26 as per the number of letters in the alphabet
     int key = 26;
     int length = 0;
     string text = "";
