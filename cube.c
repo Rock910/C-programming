@@ -2,6 +2,8 @@
 
 // Declare the prototype: Purpose; compute the cube of a given x
 // num-> num
+//Author: Joshua Steier
+//prototype
 int cube( int x);
 int input, answer;
 int main (void){
