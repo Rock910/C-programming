@@ -1,5 +1,6 @@
 #include <stdio.h>
 // arbirtrary number of grades average calculator using sentinel controlled loop
+//Author: Joshua Steier
 int main (void){
     unsigned int counter;
     int num;
